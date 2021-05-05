@@ -1,0 +1,15 @@
+
+all the statuses
+
+830: 200
+15: 301
+1: 302
+8: 304
+found 0 vulnerability
+
+error in:
+status: 500 | url: https://better.com/api/mortgage/eligibility/affordability | parameter facts | payload: \u0000\u005C\u0075\u0030\u0030\u0030\u0030\u005C\u0022\u005C\u005C\u0027\u003A\u003B\u0000\u005C\u0075\u0030\u0030\u0030\u0030\u005C\u0022\u005C\u005C\u0027 | method: get | where: post_parameter
+status: 500 | url: https://better.com/api/mortgage/eligibility/affordability | parameter facts | payload: %00%5Cu0000%5C%22%5C%5C%27%3A%3B%00%5Cu0000%5C%22%5C%5C%27 | method: get | where: post_parameter
+status: 500 | url: https://better.com/api/mortgage/eligibility/affordability | parameter facts | payload: &#00000000&#0000005C&#00000075&#00000030&#00000030&#00000030&#00000030&#0000005C&#00000022&#0000005C&#0000005C&#00000027&#0000003A&#0000003B&#00000000&#0000005C&#00000075&#00000030&#00000030&#00000030&#00000030&#0000005C&#00000022&#0000005C&#0000005C&#00000027 | method: get | where: post_parameter
+status: 500 | url: https://better.com/api/mortgage/eligibility/affordability | parameter facts | payload: &#0;&#5C;&#75;&#30;&#30;&#30;&#30;&#5C;&#22;&#5C;&#5C;&#27;&#3A;&#3B;&#0;&#5C;&#75;&#30;&#30;&#30;&#30;&#5C;&#22;&#5C;&#5C;&#27; | method: get | where: post_parameter
+status: 500 | url: https://better.com/api/mortgage/eligibility/affordability | parameter facts | payload: AFx1MDAwMFwiXFwnOjsAXHUwMDAwXCJcXCc= | method: get | where: post_parameter

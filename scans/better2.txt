@@ -1,0 +1,10 @@
+
+all the statuses
+
+830: 200
+15: 301
+1: 302
+8: 304
+found 0 vulnerability
+
+error in:
